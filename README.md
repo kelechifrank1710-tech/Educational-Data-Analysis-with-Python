@@ -2,7 +2,7 @@
 
 ##Overview
 
-This project demonstrates an end-to-end educational data analysis and machine learning workflow using Python. It covers the complete data science pipeline—from loading and cleaning data to exploratory data analysis (EDA), feature engineering, predictive modeling, and model evaluation.
+This project demonstrates an end-to-end educational data analysis and machine learning workflow using Python. It covers the complete data science pipeline, from loading and cleaning data to exploratory data analysis (EDA), feature engineering, predictive modeling, and model evaluation.
 
 The project uses a student depression dataset to identify patterns and build a machine learning model capable of predicting student depression status based on various educational and personal factors.
 
