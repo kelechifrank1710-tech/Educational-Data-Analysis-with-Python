@@ -148,5 +148,5 @@ Science Educator | Educational Data Analyst | Aspiring Educational Data Scientis
 GitHub:
 https://github.com/kelechifrank1710-tech
 
-License
+License:
 This project is for educational and portfolio purposes.
